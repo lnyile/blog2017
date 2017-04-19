@@ -10,4 +10,4 @@
 
 ##如何预览
 
-点击https://lnyile.github.io/blog2017/即可预览
+点击https://lnyile.github.io/blog2017/ 即可预览
